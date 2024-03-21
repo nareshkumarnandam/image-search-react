@@ -45,7 +45,8 @@ input{
   width: 70%;
   height: 70%;
   padding: 0 10px;
-
+  border-radius: 10px;
+  border: 2px solid rgba(128, 128, 128, 0.479);
 }
 #input-container{
   width: 500px;
